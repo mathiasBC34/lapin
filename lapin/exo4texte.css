@@ -1,0 +1,15 @@
+div {
+border: black 4px solid;
+    width: fit-content;
+    height: fit-content;
+    margin: 200px;
+}
+
+img {
+    margin: 10px;
+    border: red 1px solid;
+}
+
+.transformation {
+    transform: translate(200px, 0) scale(0.5);
+}
